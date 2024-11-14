@@ -4,7 +4,7 @@ Hi 👋 My name is Menna Bashir
 Frontend Developer and UI Developer
 -----------------------------------
 
-* 🖥️  See my portfolio at [MyPortfolio](https://mennabashir.github.io/My-Portfolio/)
+* 🖥️  See my portfolio at [MyPortfolio](https://mennabashir.github.io/Portfolio/)
 * ✉️  You can contact me at [menna.bashiir@gmail.com](mailto:menna.bashiir@gmail.com)
 
 ### Skills
