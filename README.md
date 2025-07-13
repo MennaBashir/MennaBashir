@@ -5,7 +5,7 @@ Frontend Developer and UI Developer
 -----------------------------------
 
 * 🖥️  See my portfolio at [MyPortfolio](https://mennabashir.github.io/Portfolio/)
-* ✉️  You can contact me at [menna.bashiir@gmail.com](mailto:menna.bashiir@gmail.com)
+* ✉️  You can contact me at [menna.bashiir@gmail.com](mailto:mennabashir111@gmail.com)
 
 ### Skills
 
