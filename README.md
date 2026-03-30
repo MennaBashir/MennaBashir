@@ -31,12 +31,14 @@
 ### 📈 Metrics of Impact
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mennabashir&show_icons=true&theme=tokyonight&title_color=0EA5E9&icon_color=0EA5E9&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mennabashir&layout=compact&theme=tokyonight&title_color=0EA5E9&hide_border=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mennabashir&show_icons=true&theme=tokyonight&title_color=0EA5E9&icon_color=0EA5E9&hide_border=true&count_private=true" alt="Menna's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mennabashir&theme=tokyonight&fire=0EA5E9&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="Menna's Streak" width="48%" />
 </p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mennabashir&show_icons=true&locale=en" alt="mennabashir" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mennabashir&" alt="mennabashir" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mennabashir&layout=compact&theme=tokyonight&title_color=0EA5E9&hide_border=true" alt="Top Languages" width="45%" />
+</p>
+
 ---
 
 ### 🤝 Connectivity
