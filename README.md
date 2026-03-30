@@ -34,7 +34,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=mennabashir&show_icons=true&theme=tokyonight&title_color=0EA5E9&icon_color=0EA5E9&hide_border=true&count_private=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mennabashir&layout=compact&theme=tokyonight&title_color=0EA5E9&hide_border=true" width="45%" />
 </p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mennabashir&show_icons=true&locale=en" alt="mennabashir" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mennabashir&" alt="mennabashir" /></p>
 ---
 
 ### 🤝 Connectivity
