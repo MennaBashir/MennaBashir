@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0EA5E9&height=200&section=header&text=Menna%20Bashir&fontSize=70&animation=fadeIn&fontColor=ffffff" />
 </div>
 
-### <div align="center">Frontend & Mobile Engineer</div>
+### <div align="center">Frontend & Mobile Developer</div>
 
 <p align="center">
   <a href="https://github.com/mennabashir">
