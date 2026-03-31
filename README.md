@@ -31,12 +31,7 @@
 ### 📈 Metrics of Impact
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mennabashir&show_icons=true&theme=tokyonight&title_color=0EA5E9&icon_color=0EA5E9&hide_border=true&count_private=true" alt="Menna's GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mennabashir&theme=tokyonight&fire=0EA5E9&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="Menna's Streak" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mennabashir&layout=compact&theme=tokyonight&title_color=0EA5E9&hide_border=true" alt="Top Languages" width="45%" />
 </p>
 
 ---
@@ -46,10 +41,10 @@
   <a href="https://www.linkedin.com/in/menna-bashir/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://discord.com/users/1245744668013236299" target="_blank">
+  <a href="https://discord.com/users/menna_bashir" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
-  <a href="mailto:your-email@mennabashir00@gmail.com">
+  <a href="mailto:mennabashir00@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
