@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="./terminal.svg" alt="Terminal: Menna Bashir, Frontend and Mobile Developer, CS student" width="100%" />
+  <img src="./terminal.svg" alt="Menna Bashir, Frontend and Mobile Developer, CS student" width="100%" />
 </p>
 
 ## 🌌 Skills Galaxy
