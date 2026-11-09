@@ -40,9 +40,9 @@ I've also contributed to open source, with merged work in GitLab and AboutCode.
 
 | Project | What it is | Stack |
 | --- | --- | --- |
-| [SprintifAI](LINK) | AI platform for real-time meetings with a RAG assistant that answers questions about meeting content, plus automated follow-up emails through Gmail | React, TypeScript, Zustand, React Query, VideoSDK, GSAP |
-| [Bosla](LINK) | Analyzes a CV with AI and generates a personalized learning roadmap, with an admin dashboard for users, API keys and analytics | React, React Query, Tailwind CSS, Framer Motion |
-| [Jawamk](LINK) | Production agency website with SEO optimization and validated service-request forms | Next.js, Shadcn/UI, React Hook Form, Zod |
+| [SprintifAI](https://x-cloud-frontend-2wj3.vercel.app/) | AI platform for real-time meetings with a RAG assistant that answers questions about meeting content, plus automated follow-up emails through Gmail | React, TypeScript, Zustand, React Query, VideoSDK, GSAP |
+| [Bosla](https://bosla.me/home) | Analyzes a CV with AI and generates a personalized learning roadmap, with an admin dashboard for users, API keys and analytics | React, React Query, Tailwind CSS, Framer Motion |
+| [Jawamk](https://jawamk.com/) | Production agency website with SEO optimization and validated service-request forms | Next.js, Shadcn/UI, React Hook Form, Zod |
 
 More on my [portfolio](https://menna-bashir.vercel.app/).
 
