@@ -51,7 +51,7 @@ More on my [portfolio](https://menna-bashir.vercel.app/).
 ## Open Source
 
 - **GitLab** — added a sticky Edit button to long wiki pages (Vue.js). [Merged](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/224262)
-- **AboutCode** — implemented dark mode for the website, live in production. [Merged]([LINK](https://github.com/aboutcode-org/www.aboutcode.org/pull/74)) [Live](https://aboutcode-org.github.io/www.aboutcode.org/)
+- **AboutCode** — implemented dark mode for the website, live in production. [Merged](https://github.com/aboutcode-org/www.aboutcode.org/pull/74) & [Live](https://aboutcode-org.github.io/www.aboutcode.org/)
 
 <br/>
 
