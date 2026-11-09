@@ -1,50 +1,66 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=timeGradient&customColorList=8A2BE2,0EA5E9,FF007F&height=200&section=header&text=Menna%20Bashir&fontSize=75&animation=twinkling&fontColor=ffffff" alt="Menna Bashir Header" />
-</div>
-<h3 align="center">Software Developer | Frontend & Mobile Specialist</h3>
+<h1 align="center">Menna Bashir</h1>
+
 <p align="center">
-  <a href="https://github.com/mennabashir">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1500&color=0EA5E9&center=true&vCenter=true&width=600&lines=Crafting+Scalable+Web+%26+Mobile+Apps;2+Years+of+Frontend+Excellence;React,+Next.js,+%26+React+Native+Expert;Community+Builder+%26+Open+Source+Contributor" alt="Typing SVG" />
-  </a>
+  Frontend & Mobile Developer · React, Next.js, React Native
 </p>
+
+<p align="center">
+  <a href="https://menna-bashir.vercel.app/">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/menna-bashir/">LinkedIn</a> ·
+  <a href="mailto:mennabashir00@gmail.com">Email</a>
+</p>
+
 <br/>
 
-### 🪐 Technical Universe
+## About
+
+## About
+
+Frontend developer with 2+ years of experience building web applications with React, Next.js and TypeScript. I build an ERP system and internal dashboards at Wladet Helm Consultancy, used by 300+ organizations and 10,000+ users, with experience building products for the Saudi market. I've also worked with freelance clients.
+
+I've also contributed to open source, with merged work in GitLab and AboutCode.
+
+<br/>
+
+## Tech
+
 <p align="center">
-  <!-- Core Languages, Frameworks, & Tools (Skillicons) -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,cpp,react,next,redux,tailwind,materialui,vite,docker,git,linux,nodejs,express,mongodb&perline=8&theme=dark" alt="Core Stack & Tools" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,redux,tailwind,materialui,figma,git,nodejs,express,mongodb,docker,linux&perline=8&theme=dark" alt="Tech stack" />
   </a>
 </p>
-<p align="center">
-  <!-- Specialized Libraries, State, & Mobile (Custom Badges) -->
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
-  <img src="https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=D0D0D0" alt="Expo" />
-  <img src="https://img.shields.io/badge/Zustand-444444?style=for-the-badge" alt="Zustand" />
-  <img src="https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white" alt="Recoil" />
-  <img src="https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&logo=framer&logoColor=blue" alt="Framer Motion" />
-  <img src="https://img.shields.io/badge/Shadcn/UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="Shadcn" />
-  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge" alt="Mongoose" />
-</p>
+
+**Frontend:** React, Next.js, TypeScript, Tailwind CSS, Shadcn/UI, Material UI, Framer Motion, GSAP  
+**Mobile:** React Native, Expo  
+**State & data:** Redux Toolkit, Zustand, TanStack Query, Zod  
+**Backend:** Node.js, Express, MongoDB, Mongoose, REST APIs  
+**Tools:** Git, GitHub, GitLab, Docker, Linux, Figma
+
 <br/>
 
-### ☄️ Impact & Activity
-<p align="center">
-  <a href="https://github.com/mennabashir">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mennabashir&theme=radical&hide_border=true&background=0D1117&ring=0EA5E9&fire=8A2BE2&currStreakLabel=0EA5E9" alt="Menna's Streak" width="48%" />
-  </a>
-</p>
+## Selected Work
+
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [SprintifAI](LINK) | AI platform for real-time meetings with a RAG assistant that answers questions about meeting content, plus automated follow-up emails through Gmail | React, TypeScript, Zustand, React Query, VideoSDK, GSAP |
+| [Bosla](LINK) | Analyzes a CV with AI and generates a personalized learning roadmap, with an admin dashboard for users, API keys and analytics | React, React Query, Tailwind CSS, Framer Motion |
+| [Jawamk](LINK) | Production agency website with SEO optimization and validated service-request forms | Next.js, Shadcn/UI, React Hook Form, Zod |
+
+More on my [portfolio](https://menna-bashir.vercel.app/).
+
 <br/>
 
-### 🌍 Let's Connect
+## Open Source
+
+- **GitLab** — added a sticky Edit button to long wiki pages (Vue.js). [Merged](LINK)
+- **AboutCode** — implemented dark mode for the website, live in production. [Merged](LINK)
+
+<br/>
+
+## Connect
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/menna-bashir/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://discord.com/users/menna_bashir" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
-  <a href="mailto:mennabashir00@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  <a href="https://www.linkedin.com/in/menna-bashir/"><img src="https://img.shields.io/badge/LinkedIn-9E5A70?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://discord.com/users/menna_bashir"><img src="https://img.shields.io/badge/Discord-7B6AB0?style=flat-square&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="mailto:mennabashir00@gmail.com"><img src="https://img.shields.io/badge/Email-6B5B73?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
