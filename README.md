@@ -14,8 +14,6 @@
 
 ## About
 
-## About
-
 Frontend developer with 2+ years of experience building web applications with React, Next.js and TypeScript. I build an ERP system and internal dashboards at Wladet Helm Consultancy, used by 300+ organizations and 10,000+ users, with experience building products for the Saudi market. I've also worked with freelance clients.
 
 I've also contributed to open source, with merged work in GitLab and AboutCode.
