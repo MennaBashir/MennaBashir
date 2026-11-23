@@ -42,7 +42,6 @@ I've also contributed to open source, with merged work in GitLab and AboutCode.
 | --- | --- | --- |
 | [SprintifAI](https://x-cloud-frontend-2wj3.vercel.app/) | Top 10 finalist at University Innovation Summit 2026. AI platform for real-time meetings with a RAG assistant and automated Gmail follow-ups | React, TypeScript, Zustand, React Query, VideoSDK, GSAP |
 | [Bosla](https://bosla.me/home) | AI career coach that analyzes a developer's CV and learning style to generate personalized learning paths, with an admin dashboard | React, React Query, Tailwind CSS, Framer Motion  |
-| [Jawamk](https://jawamk.com/) | Production agency website with SEO optimization and validated service-request forms | Next.js, Shadcn/UI, React Hook Form, Zod |
 
 More on my [portfolio](https://menna-bashir.vercel.app/).
 
